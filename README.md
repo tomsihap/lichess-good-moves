@@ -52,3 +52,13 @@ First, you will need to install a browser extension to run external scripts.
 
 When installed, you can get the `script.js` [file here](script.js) and copy-paste it into Tampermonkey/Greasemonkey.
 
+# How to use
+
+- Make sure the script is activated and go to the analysis page of any of your games.
+- If the analysis haven't been run, you have to start it and refresh the page.
+- You WILL be prompted something scary like this :
+
+![Warning Tampermonkey](images/warning-tampermonkey.PNG?raw=true "Warning Tampermonkey")
+
+- Don't worry, you can accept it, this is because the script needs to call an external file (XHR request) [to this file](https://raw.githubusercontent.com/tomsihap/eco.json/master/eco.json) which is a list of ECO codes, variations and names to show the opening name in Lichess.
+
