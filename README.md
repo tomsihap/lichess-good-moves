@@ -7,7 +7,7 @@
 
 ## Openings
 
-The script can show you when you and your opponent followed book moves, and which opening have been followed.
+The script can show you when you and your opponent followed book moves, and which opening have been followed. This is an addition to the already existing opening book in Lichess if you want to see the openings in the PGN.
 
 ![Openings](images/opening.PNG?raw=true "Openings")
 
