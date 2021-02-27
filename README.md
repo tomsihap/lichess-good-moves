@@ -29,7 +29,7 @@ You can also see a summary of your good moves in the analysis table :
 
 ### How are defined good/excellent/brillancies moves ?
 
-Since you cannot really tell when a move is good (see [this StackOverflow thread](https://chess.stackexchange.com/questions/24378/why-does-lichess-only-tell-me-my-inaccuracies-mistakes-and-blunders-and)), the decision have been made that moves between the following thresolds are defined as good/excellent/brillancy :
+Since you cannot really tell when a move is good (see [this StackOverflow thread](https://chess.stackexchange.com/questions/24378/why-does-lichess-only-tell-me-my-inaccuracies-mistakes-and-blunders-and)), the decision have been made that moves between the following thresholds are defined as good/excellent/brillancy :
 
 ```
 From white prospective:
