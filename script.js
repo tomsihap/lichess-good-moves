@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Lichess Good Moves
-// @namespace    https://github.com/tomsihap
+// @namespace    https://github.com/tomsihap/lichess-good-moves/
 // @version      0.1
 // @description  Show Brillant, Best, Excellent moves and book moves as chess.com does.
 // @author       Thomas Sihapanya
